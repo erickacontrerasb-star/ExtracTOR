@@ -1,4 +1,4 @@
-## ExtracTOR
+Using Claude Opus 4.5 in Copilot Chat: With a 3× multiplier, one interaction counts as 3 premium requests.## ExtracTOR
 
 Tool in bash that allows the extraction of screenshots of the web pages of the Dark Markets available in Ahmia, as well as their addresses .onion V3 and its titles. 
 
